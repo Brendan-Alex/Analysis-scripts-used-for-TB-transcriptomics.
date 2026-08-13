@@ -2,7 +2,7 @@
 
 This repository contains the analysis scripts used for the manuscript:
 
-"Cross-cohort validation reveals task-dependent generalisability and cohort-specific signal inversion in tuberculosis blood transcriptomic classification"
+"Cross-cohort validation reveals task-dependent generalisability and cohort-specific signal inversion in tuberculosis blood transcriptomic classification."
 
 Processed datasets:
 https://doi.org/10.5281/zenodo.18923347
